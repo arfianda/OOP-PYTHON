@@ -40,33 +40,33 @@ File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungs
 
 
 ## Penggunaan
-1. **Instalasi**: Pastikan Anda memiliki Python terinstal di sistem Anda. Anda dapat mengunduhnya dari [python.org](https://www.python.org/downloads/).
+- **Instalasi**: Pastikan Anda memiliki Python terinstal di sistem Anda. Anda dapat mengunduhnya dari [python.org](https://www.python.org/downloads/).
 
-2. **Clone Repository**: Clone repositori ini ke mesin lokal Anda menggunakan perintah berikut:
+- **Clone Repository**: Clone repositori ini ke mesin lokal Anda menggunakan perintah berikut:
    ```
    git clone https://github.com/arfianda/OOP-PYTHON.git
    cd repo
    ```
 
-3. **Jalankan Program**
+- **Jalankan Program**
 
     ```
     python main.py
     ```
 
-4. **Menu Utama**:Setelah program berjalan, Anda akan melihat menu utama dengan pilihan:
+- **Menu Utama**:Setelah program berjalan, Anda akan melihat menu utama dengan pilihan:
 
- 1. Tambah Data Mahasiswa
- 2. Ubah Data Mahasiswa
- 3. Hapus Data Mahasiswa
- 4. Cari Data Mahasiswa
- 5. Tampilkan Semua Data Mahasiswa
- 6. Keluar
+    1. Tambah Data Mahasiswa
+    2. Ubah Data Mahasiswa
+    3. Hapus Data Mahasiswa
+    4. Cari Data Mahasiswa
+    5. Tampilkan Semua Data Mahasiswa
+    6. Keluar
 
-5. **Input Data**:
+- **Input Data**:
     - Ikuti instruksi di layar untuk menginput data mahasiswa.
 
-6. **Data Mahasiswa**:
+- **Data Mahasiswa**:
     - Data mahasiswa akan disimpan dalam file `data_mahasiswa.json` di direktori proyek.
 
 
