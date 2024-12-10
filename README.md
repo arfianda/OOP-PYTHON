@@ -55,14 +55,15 @@ File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungs
     ```
 
 - **Menu Utama**:Setelah program berjalan, Anda akan melihat menu utama dengan pilihan:
-
+    ```
     1. Tambah Data Mahasiswa
     2. Ubah Data Mahasiswa
     3. Hapus Data Mahasiswa
     4. Cari Data Mahasiswa
     5. Tampilkan Semua Data Mahasiswa
     6. Keluar
-
+    ```
+    
 - **Input Data**:
     - Ikuti instruksi di layar untuk menginput data mahasiswa.
 
