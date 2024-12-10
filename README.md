@@ -65,13 +65,11 @@ File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungs
     ```
 
 - **Input Data**:
-
-![](lib/img/image2.png)
-
     - Ikuti instruksi di layar untuk menginput data mahasiswa.
 
 - **Data Mahasiswa**:
     - Data mahasiswa akan disimpan dalam file `data_mahasiswa.json` di direktori proyek.
+    ![](lib/img/image3.png)
 
 
 ## Catatan
