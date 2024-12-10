@@ -63,8 +63,11 @@ File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungs
     5. Tampilkan Semua Data Mahasiswa
     6. Keluar
     ```
-    
+
 - **Input Data**:
+
+![](lib/img/image2.png)
+
     - Ikuti instruksi di layar untuk menginput data mahasiswa.
 
 - **Data Mahasiswa**:
